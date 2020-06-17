@@ -1,6 +1,6 @@
 # CS 224/252: Computer Networks (Spring 2018) - IIT Bombay
 
-This repository contains all my submissions to assignments written during my study of the CS224 / CS252 - **Computer Networks & Lab** course in Spring 2018 at Indian Institute of Technology (IIT) Bombay, India.
+This repository contains all my submissions to assignments written during my study of the **CS224 / CS252: Computer Networks & Lab** course in Spring 2018 at Indian Institute of Technology (IIT) Bombay, India.
 
 ## Author
 
